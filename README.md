@@ -4,8 +4,8 @@ Instaladores do **Engenho Pátio** para Windows. Este repositório guarda só os
 
 ## Como baixar
 
-1. Abra a [versão mais recente](https://github.com/engenho-apps/patio-releases/releases/latest).
-2. Baixe o arquivo `.exe` (instalador recomendado) ou `.msi`.
+1. Baixe direto: [EngenhoPatio-setup.exe](https://github.com/engenho-apps/patio-releases/releases/latest/download/EngenhoPatio-setup.exe) (versão mais recente).
+2. Ou abra a [página da versão mais recente](https://github.com/engenho-apps/patio-releases/releases/latest) para ver o `.msi` e as notas.
 3. Execute e siga as telas. O teste de 30 dias começa na primeira abertura, com internet.
 
 ## "O Windows protegeu o computador"?
